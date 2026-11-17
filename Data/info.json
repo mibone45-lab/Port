@@ -1,0 +1,32 @@
+[
+    {
+    "CerImage": "/Image/Cer1.png",
+    "Certificate": "ME Tune Up Camp 18th",
+    "Date": "24-28 September 2026",
+    "Place": "King Mongkut's University of Technology Thonburi"
+},
+    {
+    "CerImage": "/Image/Cer2.png",
+    "Certificate": "Certificate of Anatomy",
+    "Date": "26 July 2026",
+    "Place": "Mahidol University"
+    },
+    {
+    "CerImage": "/Image/Cer3.png",
+    "Certificate": "THE a-MAEzingRACE KMUTNB 2026",
+    "Date": "25 April 2026",
+    "Place": "King Mongkut's University of Technology North Bangkok"
+    },
+    {
+    "CerImage": "/Image/Cer4.jpg",
+    "Certificate": "67 World Cup",
+    "Date": "1 April 2026",
+    "Place": "Solar System"
+    },
+    {
+    "CerImage": "/Image/Cer5.jpg",
+    "Certificate": "Chicken Legend",
+    "Date": "5 January 2026",
+    "Place": "Thailand"
+    }
+]
