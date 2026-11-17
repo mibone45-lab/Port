@@ -13,7 +13,7 @@ const cer = document.querySelector(".cer")
 const cerDetail = document.querySelector(".cerDetail")
 const cerBox = document.querySelector(".cerBox")
 
-fetch("/Data/info.json")
+fetch("./Data/info.json")
   .then((response) => response.text())
   .then((text) => {
     const Detail = JSON.parse(text)
