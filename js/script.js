@@ -2,10 +2,10 @@
 // Sayori
 const secLogo = document.querySelector(".sprite")
 secLogo.addEventListener("mouseenter", () => {
-    secLogo.src = "/spriteImage/Sayori-2.png"
+    secLogo.src = "spriteImage/Sayori-2.png"
 })
 secLogo.addEventListener("mouseleave", () => {
-    secLogo.src = "/spriteImage/PC _ Computer - Doki Doki Literature Club - Miscellaneous - Stickers.png"
+    secLogo.src = "spriteImage/PC _ Computer - Doki Doki Literature Club - Miscellaneous - Stickers.png"
 })
 
 // Page 1
