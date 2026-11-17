@@ -115,6 +115,8 @@ body {
 
     border: outset 4px black;
 
+    box-shadow: 10px 10px 5px #4f7187;
+
     /* Transition */
     transition-timing-function: ease;
     transition-duration: 0.3s;
@@ -142,6 +144,9 @@ body {
     width: 25%;
     height: 25%;
     margin: 15px;
+
+    display: flex;
+    justify-content: flex-end;
 
     transition-duration: 0.35s;
     transition-timing-function: cubic-bezier(0.645, 0.045, 0.355, 1)
@@ -177,15 +182,12 @@ body {
 }
 .cerDetail th {
     border: solid 5px rgb(81, 136, 230);
+    border-radius: 5px;
 }
 
 .cerDetail td {
     border-bottom: 10px solid rgb(81, 136, 230);
     padding-bottom: 20px;
-}
-.cer {
-    display: flex;
-    justify-content: flex-end;
 }
 /* Page 2 */
 .mirai {
@@ -213,6 +215,7 @@ body {
 .tab table {
     display: flex;
     justify-content: center;
+    text-align: left;
 }
 .tab table th {
     padding-left: 10px;
@@ -242,6 +245,6 @@ body {
     transform: translateY(-20px);
 }
 .cer:hover {
-    scale:1.1;
+    scale:1.2;
     border: 8px double rgb(81, 136, 230);
 }
